@@ -7,9 +7,9 @@ Jupyter notebooks interactivos que abordan diversos temas.
 
 | Núm.  | Tema  | Link  |
 |----------|----------|----------|
-| 1   | Regresión   |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/Intro_XAI/blob/main/00_Events_Classification.ipynb) |
-| 2    |  Clasificación |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/Intro_XAI/blob/main/01_Transparent_Models-LR_Iris.ipynb)|
-| 3    |  Proyecto   |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/Intro_XAI/blob/main/02_LIME-Datos-Tabulados.ipynb)  |
+| 1   | Regresión   |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/mlvalpo/blob/main/clasificacion_MLvalpo.ipynb) |
+| 2    |  Clasificación |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/mlvalpo/blob/main/clasificacion_MLvalpo.ipynb)|
+| 3    |  Proyecto   |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/mlvalpo/blob/main/clasificacion_MLvalpo.ipynb)  |
 
 
 
