@@ -2,9 +2,7 @@
 
 ¡Bienvenidos al repositorio **ml_valpo**! Este repositorio contiene ejemplos diseñados para la sesión Fundamentos de ML y para el proyecto de la Escuela de ML Aplicado a Análisis de Estrellas Masivas y eventos de Microlente.
 
-## Estrucutura del repositorio
-
-### **1. Notebooks**
+## Notebooks del repositorio
 Jupyter notebooks interactivos que abordan diversos temas.
 
 | Núm.  | Tema  | Link  |
