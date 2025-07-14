@@ -1,6 +1,6 @@
 # Fundamentos de Machine Learning
 
-¡Bienvenidos al repositorio **ml_valpo**! Este repositorio contiene ejemplos diseñados para la sesión Fundamentos de ML y para el proyecto de la Escuela de ML Aplicado a Análisis de Estrellas Masivas y eventos de Microlente.
+¡Bienvenidos al repositorio **ml_valpo**! Este repositorio contiene ejemplos diseñados para la sesión Fundamentos de ML y para el proyecto de la **Escuela de ML Aplicado a Análisis de Estrellas Masivas y eventos de Microlente**.
 
 ## Notebooks del repositorio
 Jupyter notebooks interactivos que abordan diversos temas.
