@@ -8,7 +8,7 @@ Jupyter notebooks interactivos que abordan diversos temas.
 | Núm.  | Tema  | Link  |
 |----------|----------|----------|
 | 1   | Regresión   |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/mlvalpo/blob/main/clasificacion_MLvalpo.ipynb) |
-| 2    |  Regresión Múltiples salidas |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/mlvalpo/blob/main/clasificacion_MLvalpo.ipynb)|
+| 2    |  Regresión Múltiples salidas |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/rpezoa/mlvalpo/blob/main/regresionMulti_MLvalpo_ipynb.ipynb)|
 | 3    |  Proyecto   |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/mlvalpo/blob/main/clasificacion_MLvalpo.ipynb)  |
 
 
