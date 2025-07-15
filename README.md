@@ -1,4 +1,5 @@
-# Fundamentos de Machine Learning
+# Sesión Fundamentos de Machine Learning
+## Escuela de ML Aplicado a Análisis de Estrellas Masivas y eventos de Microlente
 
 ¡Bienvenidos al repositorio **ml_valpo**! Este repositorio contiene ejemplos diseñados para la sesión Fundamentos de ML y para el proyecto de la **Escuela de ML Aplicado a Análisis de Estrellas Masivas y eventos de Microlente**.
 
