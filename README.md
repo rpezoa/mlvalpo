@@ -13,6 +13,10 @@ Este repositorio reúne los notebooks de la sesión *Fundamentos de Machine Lear
 | 3 | [Proyecto](proyecto_parametros_estelares.ipynb) | Inferencia de $T_\mathrm{eff}$, $\log g$ y tasa de pérdida de masa desde la línea H-alpha con una red convolucional 1D, y evaluación en 76 espectros observados. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpezoa/mlvalpo/blob/main/proyecto_parametros_estelares.ipynb) |
 | 4 | [K-Means](https://github.com/rpezoa/mlvalpo/blob/main/KMeans_example.ipynb) | Ejemplo de K-Means. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/rpezoa/mlvalpo/blob/main/KMeans_example.ipynb) |
 | 5 | [DBSCAN](https://github.com/rpezoa/mlvalpo/blob/main/DBSCAN_example.ipynb) | Ejemplo de DBSCAN. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/rpezoa/mlvalpo/blob/main/DBSCAN_example.ipynb) |
+| 6 | [Logistic Regression]() | Ejemplo de Logistic Regression. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
+
+
+
 
 Los notebooks están pensados para seguirse en orden: cada uno supone los conceptos del anterior.
 
